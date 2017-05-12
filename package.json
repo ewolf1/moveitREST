@@ -1,0 +1,14 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "Restservice for moveit app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Eugen Wolf",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
